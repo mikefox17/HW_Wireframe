@@ -5,7 +5,7 @@
   margin-left: auto;
   margin-right: auto;
   color: #333;
-  background-color: #777777;
+  background-color: #777;
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -24,12 +24,14 @@ header {
   padding: 10px;
   margin-bottom: 10px;
   margin-top: 10px;
+  color: #777;
 }
 nav {
   background: #ebebeb;
   text-align: center;
   padding: 10px;
   margin-bottom: 10px;
+  color: #777;
 }
 
 section {
@@ -72,8 +74,9 @@ section {
   margin: 10px 30px 10px 20px;
   padding-top: 10px;
   color: #777;
-  background: whitesmoke;
+  background: #ebebeb;
 }
+
 #aside1 {
   float: right;
   width: 440px;
@@ -87,7 +90,7 @@ section {
 
 #footer1 {
   clear: both;
-  background: white;
+  background: #ebebeb;
   padding: 20px;
   color: #777;
 }
